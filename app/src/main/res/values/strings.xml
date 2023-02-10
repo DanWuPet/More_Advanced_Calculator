@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Mobile app 03-02-2022 opgave 3</string>
+    <string-array name="calculatorOperators">
+        <item>+</item>
+        <item>-</item>
+        <item>/</item>
+        <item>*</item>
+    </string-array>
+</resources>
